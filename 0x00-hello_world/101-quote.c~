@@ -1,0 +1,8 @@
+#include <stdio.h>
+/**
+ * Main - returns the string in the putchar
+ * Return : value (0) for success
+ */
+int main(void)
+{
+
