@@ -1,1 +1,1 @@
-This is the official readme file for the project 0x05-pointers_arrays_strings
+This is the official README file for the assignment 0X07-pointers_arrays_strings
