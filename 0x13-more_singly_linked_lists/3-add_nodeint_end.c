@@ -1,10 +1,4 @@
-/*
- * File: 3-add_nodeint_end.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
-
 /**
  * add_nodeint_end - Adds a new node at the
  *                   end of a listint_t list.
