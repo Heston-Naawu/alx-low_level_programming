@@ -1,10 +1,4 @@
-/*
- * File: 10-delete_nodeint.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
-
 /**
  * delete_nodeint_at_index - Deletes the node at a given
  *                           index of a listint_t list.
