@@ -1,10 +1,4 @@
-/*
- * File: 5-free_listint2.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
-
 /**
  * free_listint2 - Frees a listint_t list.
  * @head: A pointer to the address of the
