@@ -1,11 +1,4 @@
-
-/*
- * File: 100-reverse_listint.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
-
 /**
  * reverse_listint - Reverses a listint_t list.
  * @head: A pointer to the address of
