@@ -1,10 +1,4 @@
-/*
- * File: 103-find_loop.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
-
 /**
  * find_listint_loop - Finds the loop contained in
  *                     a listint_t linked list.
