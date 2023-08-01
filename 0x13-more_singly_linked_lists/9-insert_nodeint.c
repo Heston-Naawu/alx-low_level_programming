@@ -1,10 +1,4 @@
-/*
- * File: 9-insert_nodeint.c
- * Auth: Gedeon Obae Gekonge`
- */
-
 #include "lists.h"
-
 /**
  * insert_nodeint_at_index - Inserts a new node to a listint_t
  *                           list at a given position.
