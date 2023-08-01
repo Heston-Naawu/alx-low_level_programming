@@ -1,10 +1,4 @@
-/*
- * File: 6-pop_listint.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
-
 /**
  * pop_listint - Deletes the head node of a listint_t list.
  * @head: A pointer to the address of the
