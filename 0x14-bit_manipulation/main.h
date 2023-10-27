@@ -10,6 +10,4 @@ int set_bit(unsigned long int *n, unsigned int index);
 int _atoi(const char *s);
 int _putchar(char c);
 int get_endianness(void);
-
-
 #endif
