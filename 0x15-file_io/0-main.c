@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- * *    Author: Heston Tetteh Naawu
  * main - check the code
  *
  * Return: Always 0.
