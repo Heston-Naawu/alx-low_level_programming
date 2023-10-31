@@ -1,4 +1,5 @@
-include "main.h"
+#include <stdio.h>
+#include "main.h"
 
 /**
 * read_textfile - check the code for ALX School students.
