@@ -1,24 +1,20 @@
 #include "lists.h"
-#include <stdio.h>
 
 /**
- * print_dlistint - prints all elements of a dlistint_t list.
- * @h: head of a doubly linked list
- * Return: the number of nodes
+ * dlistint_len - Return list len
+ * @h: struct list
+ * Return: list_len
  */
 
-size_t print_dlistint(const dlistint_t *h)
+size_t dlistint_len(const dlistint_t *h)
 {
-	const dlistint_t *ptr = h;
-	size_t n = 0;
+	size_t len = 0;
+	int i = 0;
 
-	while (ptr && ptr->prev)
-		ptr = ptr->prev;
-	while (ptr)
+	for (i = 0; h; i++)
 	{
-		printf("%d\n", ptr->n);
-		n++;
-		ptr = ptr->next;
+		len += 1;
+		h = h->next;
 	}
-	return (n);
+	return (len);
 }
